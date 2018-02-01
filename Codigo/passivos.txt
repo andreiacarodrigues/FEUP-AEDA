@@ -1,0 +1,16 @@
+NIF 509766226
+Nome Maria
+Email mar@gmail.com
+Morada Fiscal Rua do Maria
+CAE 2
+25
+2000/1/20
+FIM
+NIF 123456789
+Nome Manel
+Email mane@gmail.com
+Morada Fiscal Rua do Manel
+CAE 3
+5
+2000/2/30
+FIM

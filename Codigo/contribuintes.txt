@@ -1,0 +1,6 @@
+NIF         Nome                                  Email                    Morada Fiscal
+510550037   Eduardo                               edu@gmail.com            Rua do Edu
+505753669   De                                    de@gmail.com             Rua do De
+500835217   Diogo                                 d@gmail.com              Rua do Diogo
+509766226   Maria                                 mar@gmail.com            Rua do Maria
+123456789   Manel                                 mane@gmail.com           Rua do Manel
